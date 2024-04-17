@@ -16,7 +16,7 @@
         data_width: 64,
         tcdm: {
             size: 128,
-            banks: 4,
+            banks: 1,
         },
         cluster_periph_size: 64, // kB
         zero_mem_size: 64, // kB
